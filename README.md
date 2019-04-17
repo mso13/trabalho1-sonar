@@ -14,6 +14,7 @@
 2. ##### Requisitos Básicos
 
    A) Demonstrar um código computacional capaz de:
+   
    A.1) Ler os arquivos de entrada (ou algum outro que tenha sido preparado a partir deste para facilitar a montagem da rede). Os dados propriamente ditos não devem ser modificados, para efeito de comparação, mas pré-processamento adicional dos dados é permitido, embora provavelmente desnecessário neste problema.
 
    A.2) Treinar um *Perceptron* com os dados de treinamento.
