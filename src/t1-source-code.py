@@ -8,12 +8,12 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import neuron
+from Neuron import Neuron
 from sklearn.metrics import confusion_matrix
 
 # Import dos datasets
-train_df = pd.read_csv('sonar.train-data', header=None)
-test_df  = pd.read_csv('sonar.test-data', header=None)
+train_df = pd.read_csv('dados/sonar.train-data', header=None)
+test_df  = pd.read_csv('dados/sonar.test-data', header=None)
 
 # Dimensões dos datasets importados
 #train_df.head()
