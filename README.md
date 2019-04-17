@@ -25,7 +25,9 @@
 3. ##### Regras Gerais e Observações
 
    A) Não será pré-definida uma linguagem de programação. 
+   
    B) O algoritmo deve ser implementado pelo estudante. Não se deve simplesmente utilizar um simulador ou outro software já disponível (incluindo o Toolbox do MATLAB). Podem ser utilizadas bibliotecas matemáticas para as operações necessárias (operações com matrizes, leituras de arquivos, etc).
+   
    C) Apresentar o código, os resultados obtidos e a análise.
 
 ------
