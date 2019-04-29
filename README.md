@@ -1,6 +1,11 @@
 ## Trabalho 1 - Tópicos em Engenharia (IA)
 **Primeiro trabalho de implementação computacional 1/2019** 
 
+##### Grupo:
+
+- Matheus Schmitz Oliveira - 15/0018371
+- Pedro Aurélio Coelho de Almeida - 14/0158103
+
 #### ***Rede "Perceptron" e base de dados "Sonar"***
 
 1. ##### Introdução
